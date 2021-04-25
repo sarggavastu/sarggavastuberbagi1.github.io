@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Segoe Script";
+   src: url("fonts/Segoe Script.eot") format("embedded-opentype"), url("fonts/Segoe Script.ttf") format("truetype"), url("fonts/Segoe Script.woff") format("woff"), url("fonts/Segoe Script.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Segoe Script";
+   src: url("fonts/Segoe Script Bold.eot") format("embedded-opentype"), url("fonts/Segoe Script Bold.ttf") format("truetype"), url("fonts/Segoe Script Bold.woff") format("woff"), url("fonts/Segoe Script Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
